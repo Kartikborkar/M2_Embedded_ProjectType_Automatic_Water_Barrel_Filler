@@ -7,3 +7,12 @@ WHAT : Automatic water barrel filler.
 Where : In small garden greenhouse.  
 When : When there is need of frequent switching of pump.  
 How : By using microcontroller with power strip.
+
+# SWOT Analysis: 
+ 
+ Strength : The system is reliable . There is no need of manual operation.  
+ Weakness : Make sure the power strip is not plugged in while working on it.  
+ Opportunities : Tech based market always attract the youth  
+ Threat : Slower growth in an innovation always threat in thus dynamic world
+ 
+ 
