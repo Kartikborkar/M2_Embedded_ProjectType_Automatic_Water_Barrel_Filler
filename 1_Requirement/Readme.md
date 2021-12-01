@@ -15,4 +15,13 @@ How : By using microcontroller with power strip.
  Opportunities : Tech based market always attract the youth  
  Threat : Slower growth in an innovation always threat in thus dynamic world
  
- 
+ # High Level Requirement  
+ 1.They did not want the pump to switch on/off every second because of the water level jumping above and below a certain threshold  
+To fix this I used 2 float switches, one which is the maximum water level and one forthe minimum water level. 
+2.They did not want to plug in a pump every few hour  
+So to contro the operation microcontroller is used   
+
+# Low Level Requirement  
+You need enough wiring so that you can reach the relay and go back to the original connection point.  
+
+
