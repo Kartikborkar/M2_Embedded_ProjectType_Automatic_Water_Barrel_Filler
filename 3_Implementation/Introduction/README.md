@@ -58,7 +58,7 @@ Click in the Solution Explorer on “main.c” to open the main program.
 #  Step 6: Adding the Code  
 
 Copy and paste the following code in main.c   
-[project02 code file.txt](https://github.com/Kartikborkar/M2_Embedded_ProjectType_Automatic_Water_Barrel_Filler/files/7642477/project02.code.file.txt)
+[project02 code file.txt](https://github.com/Kartikborkar/M2_Embedded_ProjectType_Automatic_Water_Barrel_Filler/files/7642477/project02.code.file.txt)  
 #code present in makefile   
 
 #  Step 7: Run and Test the Code
